@@ -1,0 +1,28 @@
+editproduct
+cart 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+////////////////////////////////////////
+delete producrt
++
+php artisan migrate
+db:seed
